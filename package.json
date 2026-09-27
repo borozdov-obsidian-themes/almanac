@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-almanac",
+  "private": true,
+  "description": "A warm workshop with colour-coded chapters: parchment cream, heavy headlines, a colour for every heading level and bold chapter callouts.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
