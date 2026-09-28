@@ -15,8 +15,8 @@ headlines, a colour for every heading level and bold chapter callouts.
 - **Chapter callouts.** Each callout type is a saturated block in its chapter colour with
   24px corners: the title sits on the colour in white, the content rests on a plain card
   panel inside it.
-- **Bold and unapologetic.** Source Sans Pro Black for the title and the two largest
-  headings; the platform's own sans for the text.
+- **Bold and unapologetic.** Almanac Sans Black for the title and the two largest headings;
+  the platform's own sans for the text.
 - **Parchment, onyx and cobalt.** The canvas is parchment cream, never white; onyx fills
   the main button, cobalt carries links, a checked task and a toggle, marigold chips carry
   tags, and a peach glow is the highlighter.
@@ -46,10 +46,11 @@ Settings → Appearance → Themes.
 
 ## Font
 
-Source Sans Pro Black (© 2010–2019 Adobe Systems Incorporated, Reserved Font Name "Source")
-is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License 1.1 — see
-[`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and Cyrillic, for the title and the two
-largest headings only.
+Almanac Sans is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Source Sans
+Pro Black (© 2010–2019 Adobe Systems Incorporated), renamed because a modified copy may not
+use the original's Reserved Font Name. One weight, for the title and the two largest headings
+only.
 
 ## License
 
@@ -57,8 +58,8 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-**По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Урожай» — тёплая мастерская
-на пергаментном креме, и тёмный «Ноктюрн» — та же мастерская под полуночным индиго. Тяжёлые
-заголовки (Source Sans Pro Black), свой цвет у каждого уровня заголовка и яркие колауты-главы.
+**По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Урожай» — тёплая мастерская на
+пергаментном креме, и тёмный «Ноктюрн» — та же мастерская под полуночным индиго. Тяжёлые
+заголовки (Almanac Sans Black), свой цвет у каждого уровня заголовка и яркие колауты-главы.
 Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Almanac →
 Установить и применить.

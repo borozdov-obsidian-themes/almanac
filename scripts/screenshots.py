@@ -160,7 +160,7 @@ and the content on a plain card panel inside.</p></div>
 {callout("success", "check", "Shipped", "Moss for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Terracotta for what needs a look, sienna for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Give every chapter its own colour.</p></blockquote></div>
-{table(["Face", "Role"], ["Source Sans 900", "Title and the two largest headings"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
+{table(["Face", "Role"], ["Almanac Sans 900", "Title and the two largest headings"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
 """
 
 NOTE_RU = f"""

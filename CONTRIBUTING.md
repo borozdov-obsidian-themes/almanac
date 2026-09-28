@@ -25,9 +25,10 @@ House rules:
 - Obsidian's CSS variables first, plain selectors after; no `!important`, no `:has()`.
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
-- Parchment cream, onyx buttons, and a chapter colour for every heading level and
-  callout type; cobalt for links and fills, marigold for tags. The only embedded font is
-  Source Sans Pro Black (the title and the two largest headings): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+- Parchment cream, onyx buttons, and a chapter colour for every heading level and callout
+  type; cobalt for links and fills, marigold for tags. The only embedded font is Almanac
+  Sans Black, a renamed subset of Source Sans Pro Black (the title and the two largest
+  headings): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

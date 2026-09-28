@@ -1,3 +1,6 @@
+Almanac Sans is a modified version of Source Sans Pro Black: a Latin and Cyrillic subset,
+renamed because the original carries a Reserved Font Name.
+
 Source Sans Pro, © 2010-2019 Adobe Systems Incorporated, with Reserved Font Name "Source".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
