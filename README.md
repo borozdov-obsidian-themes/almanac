@@ -36,10 +36,14 @@ headlines, a colour for every heading level and bold chapter callouts.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Almanac**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Palette**. Install Borozdov Palette under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Almanac** under Style Settings → Borozdov Palette → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/almanac/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Almanac/`, then choose Borozdov Almanac under
 Settings → Appearance → Themes.
@@ -61,5 +65,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Урожай» — тёплая мастерская на
 пергаментном креме, и тёмный «Ноктюрн» — та же мастерская под полуночным индиго. Тяжёлые
 заголовки (Almanac Sans Black), свой цвет у каждого уровня заголовка и яркие колауты-главы.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Almanac →
-Установить и применить.
+В каталоге тема живёт вариантом Borozdov Palette: установите Borozdov Palette и плагин Style Settings, затем выберите Almanac в Style Settings → Borozdov Palette → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
